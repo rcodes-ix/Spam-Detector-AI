@@ -153,16 +153,6 @@ Open `index.html` in your browser or serve it using a local web server.
 
 ---
 
-## Screenshots
-
-Add screenshots of the application here.
-
-* Home Page
-* Spam Prediction
-* Ham Prediction
-
----
-
 ## Future Improvements
 
 * Improve spam recall using larger and more diverse datasets
