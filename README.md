@@ -120,7 +120,7 @@ SpamGuard-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SpamGuard-AI.git
+git clone https://github.com/rcodes-ix/SpamGuard-AI.git
 ```
 
 ### Navigate to the project
