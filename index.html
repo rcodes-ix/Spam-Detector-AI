@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>SpamGuard AI</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  </head>
+
+  <body>
+    <nav class="navbar">
+      <div class="logo">
+        <i class="fa-solid fa-shield-halved"></i>
+        <span>🛡️ SpamGuard AI</span>
+      </div>
+
+      <div class="badge">AI Detection System</div>
+    </nav>
+
+    <main>
+      <section class="hero">
+        <h1>Detect Spam Messages Instantly</h1>
+
+        <p>
+          An intelligent machine learning system that classifies emails and SMS
+          messages.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>Analyze Message</h2>
+
+        <p class="description">Paste your email or SMS content below.</p>
+
+        <textarea
+          id="message"
+          placeholder="Example: Congratulations! You won a free reward..."
+        ></textarea>
+
+        <div class="counter">
+          <span id="counter"> 0 characters </span>
+
+          <button id="example">Try Example</button>
+        </div>
+
+        <button id="predict" class="primary">
+          Analyze Message
+
+          <span>→</span>
+        </button>
+      </section>
+
+      <section id="result" class="result hidden">
+        <div class="result-header">
+          <div id="statusIcon" class="status-icon">✓</div>
+
+          <div>
+            <p class="small">Detection Result</p>
+
+            <h2 id="statusText">SAFE MESSAGE</h2>
+          </div>
+        </div>
+
+        <div class="confidence-box">
+          <div class="confidence-title">
+            <span> AI Confidence </span>
+
+            <strong id="confidence"> 95% </strong>
+          </div>
+
+          <div class="confidence-track">
+            <div id="confidenceFill"></div>
+          </div>
+        </div>
+
+        <div class="explanation">
+          <h3>Analysis</h3>
+
+          <p id="explanation">The message appears legitimate.</p>
+        </div>
+
+        <button id="reset" class="secondary">Analyze Another Message</button>
+      </section>
+    </main>
+
+    <footer>SpamGuard AI • Machine Learning Spam Detection Project</footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
