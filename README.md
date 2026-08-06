@@ -1,8 +1,13 @@
 # 🛡️ SpamGuard AI
 
-<img width="600" height="400" alt="Screenshot 2026-08-07 013735" src="https://github.com/user-attachments/assets/e997e95d-ee21-4310-bc15-890d6865842e" />
-<img width="600" height="400" alt="Screenshot 2026-08-07 013701" src="https://github.com/user-attachments/assets/b0453891-169e-4c97-8107-0aabc37dd752" />
-<img width="600" height="400" alt="Screenshot 2026-08-07 013724" src="https://github.com/user-attachments/assets/54421392-1c04-4582-89a1-d3fd83c5285b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e997e95d-ee21-4310-bc15-890d6865842e" width="47%" />
+  <img src="https://github.com/user-attachments/assets/b0453891-169e-4c97-8107-0aabc37dd752" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54421392-1c04-4582-89a1-d3fd83c5285b" width="70%" />
+</p>
 
 
 
