@@ -1,5 +1,12 @@
 # 🛡️ SpamGuard AI
 
+<img width="1917" height="928" alt="Screenshot 2026-08-07 013735" src="https://github.com/user-attachments/assets/e997e95d-ee21-4310-bc15-890d6865842e" />
+<img width="1916" height="936" alt="Screenshot 2026-08-07 013701" src="https://github.com/user-attachments/assets/b0453891-169e-4c97-8107-0aabc37dd752" />
+<img width="1917" height="937" alt="Screenshot 2026-08-07 013724" src="https://github.com/user-attachments/assets/54421392-1c04-4582-89a1-d3fd83c5285b" />
+
+
+
+
 A machine learning-powered web application that detects whether a message is **Spam** or **Ham (Safe)** in real time. The project combines **Natural Language Processing (NLP)**, **Machine Learning**, **FastAPI**, and a modern web interface to demonstrate an end-to-end ML deployment workflow.
 
 ---
